@@ -3,11 +3,10 @@
 
 ---
 
-- 🔭 I’m currently working on **Smart Appliance+**
-- 🌱 I’m currently learning **DevOps basics and UI improvements**
-- 💬 Ask me about **Web development, JavaScript, C++, Java**
+- 🌱 I’m currently learning **Web Dev**
+- 💬 Ask me about **Web development,C++**
 - 📫 Reach me at **elinajain05@gmail.com**
-- 👩‍💻 I enjoy solving DSA problems and building full-stack apps
+- 👩‍💻 I enjoy solving DSA problems and building full-stack websites
 
 ---
 
