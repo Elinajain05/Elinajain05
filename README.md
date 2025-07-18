@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elina Jain</h1>
-<h3 align="center">A passionate MERN Stack Developer from Delhi, India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer from Delhi, India 🇮🇳</h3>
 
 ---
 
